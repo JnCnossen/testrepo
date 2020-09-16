@@ -1,0 +1,3 @@
+This is a new file to test te purpose of the OSX Terminal way
+git add test.txt
+
